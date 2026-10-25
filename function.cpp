@@ -4,3 +4,6 @@ int add_function(int* i,int* j){
 int sub_function(int* i,int* j){
     return *i - *j;
 }
+int chengfunction(int* i,int* j){
+	return *i * *j;
+}
